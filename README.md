@@ -49,6 +49,9 @@ OSX Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com
 * CapsLock as Ctrl:
   * `FN + CapsLock` then: `Capslock` then: `PN` to confirm
   * `Capslock` then: `R_Ctrl` then: `PN` to confirm
+* Swap ESC and \`/~:
+  * `FN + ESC` then: `ESC` then: `PN` to confirm
+  * `ESC` then: `FN + ESC` then: `PN` to confirm
 * VIM like HJKL and Page Up/Down:
   * Left: `FN + H` then: `FN + J` then: `PN`
   * Down: `FN + J` then: `FN + K` then: `PN`
